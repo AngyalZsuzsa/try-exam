@@ -29,10 +29,6 @@ button, input, textarea, select {
   border-radius: 0;
 }
 
-.main {
-  position: relative;
-}
-
 .level {
   position: relative;
   height: 100vh;
